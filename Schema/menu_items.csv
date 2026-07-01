@@ -1,0 +1,8 @@
+item_id,name,price,food_cost,category
+1,Classic Burger,10.00,3.00,main
+2,Truffle Fries,6.00,1.50,side
+3,Lobster Roll,18.00,9.00,main
+4,Onion Rings,5.00,2.00,side
+5,Veggie Burger,11.00,4.00,main
+6,Soda,3.00,0.50,drink
+7,Milkshake,7.00,2.50,drink
